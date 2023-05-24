@@ -1,1 +1,4 @@
-todo list mainly to get a grasp of how a react environment is set up and learn some concepts you need to understand in React
+React project to get an understanding on some fundamental concepts:
+1. if statements & ternary operators
+2. import & export
+4. useState method
